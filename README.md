@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielCollins96
 - 👀 I’m interested in ... Web Dev (JS/CSS), Machine Learning (Python), Data Engineering (SQL/Python)
-- 🌱 I’m currently learning ... Next.js, Neural Networks, Generative AI, Pandas/Numpy, TailwinCSS, Cloud Services
+- 🌱 I’m currently learning ... Next.js, Neural Networks, Generative AI, Pandas/Numpy, TailwindCSS, Cloud Services
 
 
 
